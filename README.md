@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="./readme-assets/title.png" alt="readme-title" width="100%"/>
 
 ## ¿ Qué haremos ?
@@ -538,3 +539,7 @@ Donde `$break-small` será otra variable junto a nuestra paleta de colores con e
   }
 }
 ```
+=======
+# I-Love-Music-SASS
+Workshop con SASS
+>>>>>>> 17845adbf0de115bae33ec44b99da86d2ab0a744
